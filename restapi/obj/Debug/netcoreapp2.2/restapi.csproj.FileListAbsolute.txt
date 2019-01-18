@@ -1,0 +1,14 @@
+/Users/Chris/Desktop/SU_CPSC_5200_19WQ/restapi/bin/Debug/netcoreapp2.2/restapi.deps.json
+/Users/Chris/Desktop/SU_CPSC_5200_19WQ/restapi/bin/Debug/netcoreapp2.2/restapi.runtimeconfig.json
+/Users/Chris/Desktop/SU_CPSC_5200_19WQ/restapi/bin/Debug/netcoreapp2.2/restapi.runtimeconfig.dev.json
+/Users/Chris/Desktop/SU_CPSC_5200_19WQ/restapi/bin/Debug/netcoreapp2.2/restapi.dll
+/Users/Chris/Desktop/SU_CPSC_5200_19WQ/restapi/bin/Debug/netcoreapp2.2/restapi.pdb
+/Users/Chris/Desktop/SU_CPSC_5200_19WQ/restapi/obj/Debug/netcoreapp2.2/restapi.csprojAssemblyReference.cache
+/Users/Chris/Desktop/SU_CPSC_5200_19WQ/restapi/obj/Debug/netcoreapp2.2/restapi.csproj.CoreCompileInputs.cache
+/Users/Chris/Desktop/SU_CPSC_5200_19WQ/restapi/obj/Debug/netcoreapp2.2/restapi.RazorAssemblyInfo.cache
+/Users/Chris/Desktop/SU_CPSC_5200_19WQ/restapi/obj/Debug/netcoreapp2.2/restapi.RazorAssemblyInfo.cs
+/Users/Chris/Desktop/SU_CPSC_5200_19WQ/restapi/obj/Debug/netcoreapp2.2/restapi.AssemblyInfoInputs.cache
+/Users/Chris/Desktop/SU_CPSC_5200_19WQ/restapi/obj/Debug/netcoreapp2.2/restapi.AssemblyInfo.cs
+/Users/Chris/Desktop/SU_CPSC_5200_19WQ/restapi/obj/Debug/netcoreapp2.2/restapi.RazorTargetAssemblyInfo.cache
+/Users/Chris/Desktop/SU_CPSC_5200_19WQ/restapi/obj/Debug/netcoreapp2.2/restapi.dll
+/Users/Chris/Desktop/SU_CPSC_5200_19WQ/restapi/obj/Debug/netcoreapp2.2/restapi.pdb
